@@ -1,6 +1,6 @@
 # Aplicação usando api da Open Weather Map
 
-Aplicativo em Flutter que usa api de clima da Open Weather Map.
+Aplicativo em Flutter que usa api de clima da Open Weather Map mostrando o clima de acordo com a localização ou pesquisando um cidade.
 
 https://openweathermap.org/api
 
